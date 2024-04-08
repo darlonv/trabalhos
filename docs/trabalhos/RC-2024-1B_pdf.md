@@ -1,0 +1,24 @@
+---
+title: Redes de Computadores
+author: Trabalho 1º Bimestre
+---
+
+---
+
+**Atividade 1**
+
+Desenvolva uma aplicação Cliente/Servidor em Python utilizando sockets, em que as mensagens enviadas são enviadas por diversos usuários são exibidas na tela do servidor, mostrando o nome do usuário e a mensagem enviada. O nome do usuário a ser apresentado deve ser definido pelo próprio usuário, na primeira mensagem enviada. A identificação do usuário pode ser realizada pelo endereço IP do usuário.
+
+---
+
+**Atividade 2**
+
+Utilizando a aplicação Wireshark, intercepte pacotes referentes a uma requisição HTTP e sua resposta, acessando algum website. Após capturar os pacotes HTTP responda:
+
+1. Quais são os endereços IP de origem e destino?
+2. Qual tipo de requisição HTTP foi utilizada?
+3. Qual foi o código HTTP utilizado na resposta?
+4. Quais foram as portas utilizadas?
+5. Inclua capturas de tela com anotações (setas, retângulos), que apontam onde foram encontradas as respostas das perguntas nesta questão.
+
+
