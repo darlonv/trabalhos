@@ -34,7 +34,7 @@ title: Linguagem de Programação I
 
 <!-- ::: -->
 
-Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: E-etanol, G-gasolina). Calcule e imprima o preço final a ser pago pelo cliente, sabendo que o preço do litro da gasolina é R\$ 5,60 o preço do litro do etano é R\$ 3,39. Ao apresentar o resultado, não é necessário se preocupar com o número de casas decimais.
+Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: E-etanol, G-gasolina). Calcule e imprima o preço final a ser pago pelo cliente, sabendo que o preço do litro da gasolina é R\$ 5,60 e o preço do litro do etanol é R\$ 3,39. Ao apresentar o resultado, não é necessário se preocupar com o número de casas decimais.
 
 3. Desenvolva um algoritmo que tem como entrada um número inteiro de 1 a 999. Em seguida, o programa apresenta o número ordinal correspondente em sua forma por extenso. Organize seu código, utilizando funções.
 
