@@ -24,6 +24,11 @@ chapters:
   - title: LPI
     sections:
       - file: docs/trabalhos/LPIDP-2024-1B.md
+  - title: LPI - AE
+    sections:
+      - file: docs/trabalhos/LPI-AE/LPIAE-2024-1B-Lucas.md
+      - file: docs/trabalhos/LPI-AE/LPIAE-2024-1B-Diego.md
+
   - title: RC
     sections:
       - file: docs/trabalhos/RC-2024-1B.md
