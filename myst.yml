@@ -15,6 +15,9 @@ project:
 site:
   template: book-theme
   title: Trabalhos
+
+  options:
+    hide_footer_links: true
   # options:
   #   logo: site_logo.png
   # nav: []
